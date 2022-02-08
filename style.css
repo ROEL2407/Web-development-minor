@@ -48,6 +48,7 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
+/* --- main/Visitekaartje --- */
 #visitekaart {
     position: relative;
     height: 100%;
@@ -87,6 +88,9 @@ hr {
     max-height: 115px;
 }
 
+/* --- end main/Visitekaartje --- */
+/* --- contact and info buttons --- */
+
 #btn {
     position: absolute;
     left: 10px;
@@ -109,6 +113,9 @@ hr {
 #btn_info {
     left: 80px;
 }
+
+/* --- End contact and info buttons --- */
+/* --- Info and contact boxes --- */
 
 #contact, #info {
     border-top: 1px solid black;
@@ -204,3 +211,4 @@ hr {
     margin: 0px auto;
     text-align: center;
 }
+/* --- End info and contact boxes --- */
