@@ -95,6 +95,7 @@ hr {
 }
 
 #btn button {
+    font-family: 'Montserrat', sans-serif;
     position: absolute;
     bottom: 0px;
     border: 1px solid black;
