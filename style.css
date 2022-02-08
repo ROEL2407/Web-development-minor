@@ -202,4 +202,5 @@ hr {
 #info p {
     width: 90%;
     margin: 0px auto;
+    text-align: center;
 }
